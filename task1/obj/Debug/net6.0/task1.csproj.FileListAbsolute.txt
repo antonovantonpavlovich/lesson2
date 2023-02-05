@@ -1,0 +1,15 @@
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/bin/Debug/net6.0/task1
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/bin/Debug/net6.0/task1.deps.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/bin/Debug/net6.0/task1.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/bin/Debug/net6.0/task1.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 2. Базовые алгоритмы/homework/task1/obj/Debug/net6.0/ref/task1.dll
